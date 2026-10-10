@@ -7,9 +7,9 @@ public class Task2 {
         byte zero = 0;
         String word = "w0r1d"; 
         float decimal = 2.0f;
-        boolean yes = true;
+        boolean trueBa = true;
 
-        String output = "" + letter + num + zero + " " + word + " " + decimal + " " + yes;
+        String output = "" + letter + num + zero + " " + word + " " + decimal + " " + trueBa;
         System.out.println(output);
     }
 }
