@@ -1,6 +1,7 @@
 # Kassandra Mae A. Perdez
 
 🎓 Computer Science Student
+
 💻 Interested in Programming, Software Development, UI Design, UX Research, and Web Design
 
 ## 🚀 About Me
