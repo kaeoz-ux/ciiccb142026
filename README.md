@@ -1,11 +1,12 @@
 # Kassandra Mae A. Perdez
 
-A motivated, reliable, and hardworking Computer Science student passionate about developing practical skills, learning new technologies, and contributing to productive software and hardware solutions.
+🎓 Computer Science Student
+💻 Interested in Programming, Software Development, UI Design, UX Research, and Web Design
 
-## 🎨 UI/UX & Design Focus
-* UI/UX Design: User Interface Design, Visual Design, Prototyping & Wireframing
-* Design Approach: User-Centered Design, Clean Layouts, Visual Consistency
-* Core Strengths: Attention to Detail, Proactive Problem Solving, Adaptability
+## 🚀 About Me
+* 🌱 Currently learning UI/UX design and prototyping
+* 💡 Interested in making digital experiences both useful and visually appealing
+* 🎯 Goal: Become a skilled UI/UX Designer
 
 ## 📜 Certifications & Skills
 * 🖥️ Microsoft Digital Literacy – TESDA Online Program
