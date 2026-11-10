@@ -7,7 +7,17 @@ public class Task8 {
             int cumulativeSum = (num * (num + 1)) / 2;
             totalSum += cumulativeSum;
             
-            System.out.println("Parameter: " + num + " = Cumulative Sum: " + cumulativeSum);
+           System.out.print("Parameter: " + num + " -> ");
+
+            for (int i = 1; i <= num; i++) {
+                System.out.print(i);
+
+                if (i < num) {
+                    System.out.print(" + ");
+                }
+            }
+
+            System.out.println(" = " + cumulativeSum);
         }
 
         return totalSum;
