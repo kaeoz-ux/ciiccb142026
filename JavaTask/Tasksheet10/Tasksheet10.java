@@ -11,7 +11,7 @@ class Student {
     }
 }
 
-public class Task10 {
+public class Tasksheet10 {
     public static void main(String[] args) {
         Student[] students = new Student[] {
             new Student("Morgan", "Freeman"),
